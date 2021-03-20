@@ -42,3 +42,5 @@ The purpose of this challenge is to analyze the election audits of Colorado. To 
 ## Challenge summary
 Candidate Diana Degette won with 272,892 votes out of 369,711. At the percentage of 73.8% against the two other candidates. 
 
+![image](https://user-images.githubusercontent.com/77694480/111856796-9d2fe100-8903-11eb-9fe3-26d98df7dd32.png)
+
